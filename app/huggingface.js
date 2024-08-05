@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const huggingFaceApiKey = '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';
+const huggingFaceApiKey = '.................';
 
 export const generateDescription = async (itemName) => {
     try {
